@@ -1,43 +1,71 @@
-# Kotlin Projects
+# 🚀 Kotlin Projects
 
-This repository contains several projects developed using Kotlin Jetpack Compose.
-<br><br>
-**This repo is not finished, it will continue to be updated...**
----
+This repository contains multiple projects built using **Kotlin** and **Jetpack Compose**.  
+Each project is designed to demonstrate different UI components, architectural patterns, and best practices in Android development.
 
-## 1. Bizz Card App
-
-**Screenshots:**  
- <img src="screenshots/bizzcard/1.png" width="250" height="400">  <img src="screenshots/bizzcard/2.png" width="250" height="400"> 
-
+> 🛠️ **Note:** This repository is a work in progress and will continue to be updated over time.
 
 ---
 
-## 2. Jet Tip App
-
-**Screenshots:**  
- <img src="screenshots/jettip/1.png" width="250" height="400">  <img src="screenshots/jettip/2.png" width="250" height="400"> 
-
+## 📱 Projects Overview
 
 ---
 
-## 3. Movie App
+## 1. Bizz Card App  
+📇 A simple business card layout built using Jetpack Compose.
 
 **Screenshots:**  
- <img src="screenshots/movie/1.png" width="250" height="400">  <img src="screenshots/movie/2.png" width="250" height="400"> 
-
+<p float="left">
+  <img src="screenshots/bizzcard/1.png" width="250" />
+  <img src="screenshots/bizzcard/2.png" width="250" />
+</p>
 
 ---
 
-## 4. Note App
-**Screenshots:**  
- <img src="screenshots/note/1.png" width="250" height="400">  
-
-
- ---
- 
- ## 3. Trivia App
+## 2. Jet Tip App  
+💰 A tip calculator app that helps users split bills and calculate tips.
 
 **Screenshots:**  
- <img src="screenshots/trivia/1.png" width="250" height="400">  <img src="screenshots/trivia/2.png" width="250" height="400"> 
+<p float="left">
+  <img src="screenshots/jettip/1.png" width="250" />
+  <img src="screenshots/jettip/2.png" width="250" />
+</p>
 
+---
+
+## 3. Movie App  
+🎬 An app that showcases popular movies with a clean and modern UI.
+
+**Screenshots:**  
+<p float="left">
+  <img src="screenshots/movie/1.png" width="250" />
+  <img src="screenshots/movie/2.png" width="250" />
+</p>
+
+---
+
+## 4. Note App  
+📝 A simple note-taking app built using Jetpack Compose.
+
+**Screenshots:**  
+<p float="left">
+  <img src="screenshots/note/1.png" width="250" />
+</p>
+
+---
+
+## 5. Trivia App  
+❓ A quiz/trivia app that fetches questions and tracks your score.
+
+**Screenshots:**  
+<p float="left">
+  <img src="screenshots/trivia/1.png" width="250" />
+  <img src="screenshots/trivia/2.png" width="250" />
+</p>
+
+---
+
+## 📬 Contact
+
+Made with ❤️ by [Your Name](https://github.com/yourusername)  
+Feel free to open an issue or reach out if you have feedback or questions!
