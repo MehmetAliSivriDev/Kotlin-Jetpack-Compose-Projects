@@ -2,7 +2,7 @@
 
 This repository contains several projects developed using Kotlin Jetpack Compose.
 <br><br>
-<b>This repo is not finished, it will continue to be updated...</b>
+**This repo is not finished, it will continue to be updated...**
 ---
 
 ## 1. Bizz Card App
