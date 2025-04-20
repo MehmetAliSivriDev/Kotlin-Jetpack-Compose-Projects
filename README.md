@@ -67,5 +67,5 @@ Each project is designed to demonstrate different UI components, architectural p
 
 ## 📬 Contact
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)  
+Made with ❤️ by [Mehmet Ali SİVRİ](https://github.com/MehmetAliSivriDev)  
 Feel free to open an issue or reach out if you have feedback or questions!
