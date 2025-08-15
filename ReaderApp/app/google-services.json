@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "187187054747",
+    "project_id": "kotlinreaderapp",
+    "storage_bucket": "kotlinreaderapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187187054747:android:607c34e428c54459169e3e",
+        "android_client_info": {
+          "package_name": "com.example.readerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy9q6_ViQQ99RVE0Z1FY63XC5a7skqPBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
