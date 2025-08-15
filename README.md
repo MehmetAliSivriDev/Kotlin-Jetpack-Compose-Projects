@@ -3,8 +3,6 @@
 This repository contains multiple projects built using **Kotlin** and **Jetpack Compose**.  
 Each project is designed to demonstrate different UI components, architectural patterns, and best practices in Android development.
 
-> 🛠️ **Note:** This repository is a work in progress and will continue to be updated over time.
-
 ---
 
 ## 📱 Projects Overview
@@ -73,6 +71,20 @@ Each project is designed to demonstrate different UI components, architectural p
   <img src="screenshots/weather/3.png" width="250" />
   <img src="screenshots/weather/4.png" width="250" />
   <img src="screenshots/weather/5.png" width="250" />
+</p>
+
+## 6. Reader App  
+📚 A book app to browse, track progress, rate, and review books.  
+
+**Screenshots:**  
+<p float="left">
+  <img src="screenshots/reader/1.png" width="250" />
+  <img src="screenshots/reader/2.png" width="250" />  
+  <img src="screenshots/reader/3.png" width="250" />
+  <img src="screenshots/reader/4.png" width="250" />
+  <img src="screenshots/reader/5.png" width="250" />
+  <img src="screenshots/reader/6.png" width="250" />
+  <img src="screenshots/reader/7.png" width="250" />
 </p>
 
 ---
