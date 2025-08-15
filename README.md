@@ -73,7 +73,7 @@ Each project is designed to demonstrate different UI components, architectural p
   <img src="screenshots/weather/5.png" width="250" />
 </p>
 
-## 6. Reader App  
+## 7. Reader App  
 📚 A book app to browse, track progress, rate, and review books.  
 
 **Screenshots:**  
