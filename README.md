@@ -63,6 +63,18 @@ Each project is designed to demonstrate different UI components, architectural p
   <img src="screenshots/trivia/2.png" width="250" />
 </p>
 
+## 6. WeatherForecast App  
+⛅ A weather forecasting app that fetches real-time weather data and 7-day forecasts, displaying temperature, humidity, and condition icons for any location.  
+
+**Screenshots:**  
+<p float="left">
+  <img src="screenshots/weather/1.png" width="250" />
+  <img src="screenshots/weather/2.png" width="250" />  
+  <img src="screenshots/weather/3.png" width="250" />
+  <img src="screenshots/weather/4.png" width="250" />
+  <img src="screenshots/weather/5.png" width="250" />
+</p>
+
 ---
 
 ## 📬 Contact
